@@ -16,11 +16,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Controllers\" />
-      <Folder Include="Data\" />
-      <Folder Include="DTOs\" />
-      <Folder Include="Exceptions\" />
-      <Folder Include="Models\" />
+      <Folder Include="Migrations\" />
     </ItemGroup>
 
 </Project>
